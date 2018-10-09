@@ -108,7 +108,7 @@ header {
     header {
         display: flex;
         justify-content: space-between;
-        flex-direction: column;
+        flex-direction: column; /*remove this if you do not want the column layout whit logo above menu for medium size screens*/
     }
 
     #logo-burger {
